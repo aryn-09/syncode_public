@@ -316,7 +316,7 @@ body {
 .chat-window .chat-footer button {
   border: 0;
   display: grid;
-  place-items: center;
+  place-items: center; 
   cursor: pointer;
   flex: 15%;
   height: 100%;
